@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sepatu</string>
+    <string name="sepatu_name">Sepatu Name</string>
+    <string name="description">Description</string>
+</resources>
